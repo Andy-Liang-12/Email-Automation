@@ -19,7 +19,7 @@ This program queries PipelineCRM (PD) API for your daily tasks and filters out f
 
 ## Help/Disclaimer    
 * Non-comprehensive comments and tester code are provided in each section.
-* I am not a first-class programmer; much of the code written for this project was learned during its completion. There will be inefficiencies and mistakes. Reach out if you have questions.
+* I am not a first-class programmer; much of the code written for this project was learned during its completion. There will be inefficiencies and mistakes, as well as plenty of room for improvement. Reach out if you have questions.
 
 ## Authors
 

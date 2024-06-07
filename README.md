@@ -23,6 +23,6 @@ This program queries PipelineCRM (PD) API for your daily tasks and filters out f
 
 ## Authors
 
-Contributors and contact info
+Contributors and Contact Info
 
 [@Andy Liang](email.andy.liang@gmail.com)
